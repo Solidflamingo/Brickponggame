@@ -1,1 +1,1 @@
-Basic pong game with bricks using pygame.
+Basic pong game with bricks using tikinter
